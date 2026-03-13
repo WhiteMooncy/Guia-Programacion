@@ -346,14 +346,6 @@ Este proyecto está bajo la Licencia MIT. Ver [`LICENSE`](LICENSE) para más det
 
 ---
 
-## 🌟 Agradecimientos
-
-- Comunidad de educadores de programación
-- Todos los que contribuyen mejoras
-- A ti, por querer aprender a programar 🎉
-
----
-
 ## 📊 Estadísticas del Curso
 
 | Métrica      | Cantidad                  |
